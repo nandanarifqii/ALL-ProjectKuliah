@@ -27,7 +27,7 @@ akultas Ilmu Komputer Universitas Brawijaya. Proyek yang dikerjakan diantaranya 
   * <b>Analisis Desain Sistem Informasi</b> :  Software Requirements Specifications, Software Design Documents (SDD) , Pemodelan Berorientasi Object, etc - Online Learning Apps Edutech Jawir
 
 ### [UI UX Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/UIUXProject)
-  * <b> </b>
-  * <b> </b>
-  * <b> </b>
-  * <b> </b>
+  * <b>Dasar Desain Antarmuka Pengguna</b> : Pembuatan Mockup Website One Landing Page Toko Alami Herbal
+  * <b>Perancangan User Experience</b> : Dokumen User Experience (Problem Exploration, Design Challenge, User Research, Ideate, , Solution Mockup Apps, Usability Evaluation) - Aplikasi Task Handler untuk Manajemen Tugas
+  * <b>Manajemen Proyek SI</b> : Pembuatan Mockup Aplikasi dan Website Apps INDONED (Consultant Nutrition Company)
+  * <b>Technoprenurship</b> : Pembuatan Mockup Aplikasi Growrella (Platform Investasi Saham Portofolio UMKM)
