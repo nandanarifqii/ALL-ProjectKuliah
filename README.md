@@ -8,13 +8,15 @@ akultas Ilmu Komputer Universitas Brawijaya. Proyek yang dikerjakan diantaranya 
 
 ## Content 
 ### Programming Project
-- <b> </b>
-- <b> </b>
-- <b> </b>
-- <b> </b>
+- <b>[Aplikasi Traview](https://github.com/nandanarifqii/Traview-AplikasiPariwisata-AndroidProject)</b> 
+- <b>[Website Todoo-Apps](https://github.com/nandanarifqii/Todoo-Apps-PemrogramanWeb-Laravel)</b>
+- <b>[Aplikasi Online Learning Edutech](https://github.com/nandanarifqii/OnlineLearningApps-Matkul-ADSI)</b>
+- <b>[Website Sistem Peminjaman Perpustakaan](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-WebsiteVersion-PHP)</b>
+- <b>[Siste Peminjaman Perpustakaan Java OO](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-ObjectOrientedProject-Java)</b>
+- <b>[Front End Website Alami Herbal One Landing Page](https://github.com/nandanarifqii/FrontEnd-AlamiHerbalWebsite-DasarDesainAntarmukaPengguna)</b>
     
 ### [Data Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/DataProject)
-  * <b>Sistem Pendukung Keputusan</b> : Implementasi Algoritma Weighted Product untuk Promosi dari Kandidat-Kandidat Karyawan
+  * <b>Sistem Pendukung Keputusan</b> : Implementasi Algoritma Weighted Product using Python untuk Promosi dari Kandidat-Kandidat Karyawan
   * <b>Data Warehouse</b> : Dokumen Data Engineering (Logical and Pyhsical Design, ETL, SQL OLAP) - Studi Kasus Medical Appointment
   * <b>Data Mining</b> : Analisis Segmentasi Pelanggan Dataset Market Campaign using Weka Software
 
