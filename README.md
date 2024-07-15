@@ -8,9 +8,27 @@ akultas Ilmu Komputer Universitas Brawijaya. Proyek yang dikerjakan diantaranya 
 
 ## Content 
 ### Programming Project
-
+- We
+- Week 2 : Introduction to Computer Vision
+- Week 3 : Enhancing Vision with Convolutional Neural Networks
+- Week 4 : Using Real-world Images
+    
 ### [Data Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/DataProject)
+  * 
+  * 
+  * 
+  * 
 
 ### [Business Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/BusinessProject)
+  * Perencanaan Strategis SI : Business Case - Studi Kasus Industri Konveksi & Implementasi Gamification di FILKOM Universitas Brawijaya
+  * Manajemen Proyek SI : Business Case (MOV, Anggaran, Struktur Organisasi, Solusi etc) - Studi Kasus INDONED Consultant Nutrition Company
+  * Technopreneurship : Business Plan (Analisis Industri, Segmentasi pasar, BMC, Marketing, Operasional, Schedule, Finansial) - Growrella Platform Investasi Saham UMKM
+  * Tata Kelola TI : Dokumen Audit Aset TI FILKOM using Framework COBIT5
+  * Pemodelan Proses Bisnis : Dokumen Pemodelan Bisnis (Proses Bisnis, BMC, Value Chain, etc) - Ayam Paha Dada Caman Bekasi
+  * Analisis Desain Sistem Informasi :  Software Requirements Specifications, Software Design Documents (SDD) , Pemodelan Berorientasi Object, etc - Online Learning Apps Edutech Jawir
 
 ### [UI UX Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/UIUXProject)
+  * 
+  * 
+  * 
+  * 
