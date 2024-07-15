@@ -8,12 +8,12 @@ akultas Ilmu Komputer Universitas Brawijaya. Proyek yang dikerjakan diantaranya 
 
 ## Content 
 ### Programming Project
-- <b>[Aplikasi Traview](https://github.com/nandanarifqii/Traview-AplikasiPariwisata-AndroidProject)</b> 
-- <b>[Website Todoo-Apps](https://github.com/nandanarifqii/Todoo-Apps-PemrogramanWeb-Laravel)</b>
-- <b>[Aplikasi Online Learning Edutech](https://github.com/nandanarifqii/OnlineLearningApps-Matkul-ADSI)</b>
-- <b>[Website Sistem Peminjaman Perpustakaan](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-WebsiteVersion-PHP)</b>
-- <b>[Siste Peminjaman Perpustakaan Java OO](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-ObjectOrientedProject-Java)</b>
-- <b>[Front End Website Alami Herbal One Landing Page](https://github.com/nandanarifqii/FrontEnd-AlamiHerbalWebsite-DasarDesainAntarmukaPengguna)</b>
+- <b>[Aplikasi Traview](https://github.com/nandanarifqii/Traview-AplikasiPariwisata-AndroidProject)</b> : Aplikasi Pariwisata Traview berbasis Android dengan fokus Ulasan dan Informasi Tempat Wisata
+- <b>[Website Todoo-Apps](https://github.com/nandanarifqii/Todoo-Apps-PemrogramanWeb-Laravel)</b> : Website berbasis PHP dan Framework Laravel untuk Pembuatan List Tugas dan Kolaborasi Grup
+- <b>[Aplikasi Online Learning Edutech](https://github.com/nandanarifqii/OnlineLearningApps-Matkul-ADSI)</b> : Aplikasi Online Learning Apps khusus untuk Pendaftaran Kursus berbasis HTML, CSS, JS, PHP
+- <b>[Website Sistem Peminjaman Perpustakaan](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-WebsiteVersion-PHP)</b> : Website untuk Sistem Pinjam dan Pengembalian Buku dan Database Perpustakaan berbasis PHP dan SQL
+- <b>[Siste Peminjaman Perpustakaan Java OO](https://github.com/nandanarifqii/SistemPeminjamanPerpustakaan-ObjectOrientedProject-Java)</b> : Sistem Pinjam dan Pengembalian Buku Perpustakaan berbasis Object Oriented Java
+- <b>[Front End Website Alami Herbal One Landing Page](https://github.com/nandanarifqii/FrontEnd-AlamiHerbalWebsite-DasarDesainAntarmukaPengguna)</b> : Front End Website One Landing Page Toko Alami Herbal berbasis HTML, CSS
     
 ### [Data Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/DataProject)
   * <b>Sistem Pendukung Keputusan</b> : Implementasi Algoritma Weighted Product using Python untuk Promosi dari Kandidat-Kandidat Karyawan
