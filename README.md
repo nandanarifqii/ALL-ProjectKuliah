@@ -14,10 +14,9 @@ akultas Ilmu Komputer Universitas Brawijaya. Proyek yang dikerjakan diantaranya 
 - <b> </b>
     
 ### [Data Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/DataProject)
-  * <b> </b>
-  * <b> </b>
-  * <b> </b>
-  * <b> </b>
+  * <b>Sistem Pendukung Keputusan</b> : Implementasi Algoritma Weighted Product untuk Promosi dari Kandidat-Kandidat Karyawan
+  * <b>Data Warehouse</b> : Dokumen Data Engineering (Logical and Pyhsical Design, ETL, SQL OLAP) - Studi Kasus Medical Appointment
+  * <b>Data Mining</b> : Analisis Segmentasi Pelanggan Dataset Market Campaign using Weka Software
 
 ### [Business Project](https://github.com/nandanarifqii/ALL-ProjectKuliah/tree/main/BusinessProject)
   * <b>Perencanaan Strategis SI</b> : Business Case - Studi Kasus Industri Konveksi & Implementasi Gamification di FILKOM Universitas Brawijaya
